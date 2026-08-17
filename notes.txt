@@ -9,3 +9,4 @@ Notes about what we learn till now.
     d. remote: when we want to make our changes globally, we push commited changes to remote
 3. git command: git add, git commit, git status, git restore
 4. we have hands on
+learned about diff
