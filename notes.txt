@@ -1,1 +1,11 @@
 practice notes
+
+Notes about what we learn till now.
+1. git and git hub are totally different, its was the confusion hovering over me, from the beginning.
+2. places or area, where a file can live.
+    a. wd
+    b. staging area: here we put all the changes we want to take in next commit
+    c. commit area/history: here every snapshot is present
+    d. remote: when we want to make our changes globally, we push commited changes to remote
+3. git command: git add, git commit, git status, git restore
+4. we have hands on
